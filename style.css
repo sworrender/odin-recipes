@@ -1,0 +1,98 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: burlywood;
+}
+
+h1 {
+    color: red;
+    font-size: 40px;
+}
+
+.recipes-list {
+    height: 300px;
+    width: 300px;
+    margin: auto;
+    text-align: center;
+    margin-top: 40%;
+}
+
+.recipes-list ul{  
+    text-align: center;
+    list-style: none;
+}
+
+.recipes-list li{
+    border: 2px solid black;
+    margin: 1px;
+    padding: 5px;
+    width: auto;
+    background-color: white;
+}
+
+a {
+    background-color: white;
+}
+
+.peanut-butter{
+    height: 300px;
+    width: 500px;
+    margin: auto;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.peanut-butter ul{
+    text-align: left;
+}
+
+#peanut-butter-guide{
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 5%;
+    padding: 30px;
+}
+
+#peanut-butter-guide *{
+    background-color: white;
+}
+
+#peanut-butter-guide h2{
+    text-align: left;
+    margin-top: -10px;
+}
+
+#peanut-butter-guide h3{
+    text-align: left;
+    padding: 10px 0px 10px 0px;
+}
+
+#peanut-butter-guide ol{
+    text-align: left;
+    padding: 10px 0px 10px 0px;
+}
+
+#peanut-butter-guide a{
+    text-align: left;
+    display: inline-block;
+    margin-top:10px;
+    padding: 10px;
+    border: 2px solid black;
+}
+
+
+#peanut-butter-guide p{
+    text-align: left;
+}
+
+
+.peanut-butter img{
+    border: 2px solid black;
+}
+
+
+
+
+
